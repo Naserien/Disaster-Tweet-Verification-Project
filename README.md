@@ -13,7 +13,10 @@ This project focuses on authenticating disaster-related tweets using state-of-th
    - Hyperparameters include embedding dimension, learning rate, hidden units, number of layers, dropout rate, batch size, and sequence length.
 
 ## Project Structure
-- `505——lstm/`: Contains the Python scripts for data preprocessing, model training, and evaluation.
+- `505_lstm/`: Contains the Python scripts for data preprocessing, model training, and evaluation.
+- 'tweet-disaster-nlp(RoBERTa).ipynb'
+- 'tweet-disaster-nlp(bert-base).ipynb'
+- 'tweet-disaster-nlp(bert-large).ipynb'
 
 ## Project Link
-
+https://github.com/Naserien/CS505/tree/main
